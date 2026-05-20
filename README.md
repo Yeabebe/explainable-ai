@@ -109,22 +109,37 @@ Implemented SHAP visualizations include:
 * SHAP Summary Plot(loan_prediction_dataset)
 <img width="768" height="380" alt="download" src="https://github.com/user-attachments/assets/72142c39-15db-4f3a-b19d-c8f492a22a1d" />
 
+
+
 * SHAP Summary Plot(heart_disease_uci)
 <img width="866" height="680" alt="image" src="https://github.com/user-attachments/assets/671a0762-e22f-4891-af4e-3f85c216b2e1" />
  
+
+
+
  
 * SHAP Bar Plot(loan_prediction_dataset)
 <img width="790" height="380" alt="download (2)" src="https://github.com/user-attachments/assets/edf4b5a3-4251-4802-9cd6-bc21220b8d7f" />
+
+
 
 * SHAP Bar Plot(heart_disease_uci)
 <img width="790" height="740" alt="image" src="https://github.com/user-attachments/assets/83a46871-0512-492f-8961-1a5555c55fb3" />
 
 
+
+
+
 * SHAP Dependence Plot(loan_prediction_dataset)
 <img width="657" height="453" alt="image" src="https://github.com/user-attachments/assets/039c7846-5b9f-4322-a6eb-40d004a571f7" />
 
+
+
 * SHAP Dependence Plot(heart_disease_uci)
 <img width="694" height="459" alt="image" src="https://github.com/user-attachments/assets/363d23ab-e649-4fb5-ab3d-229914867e17" />
+
+
+
 
  
 * SHAP Force Plot
