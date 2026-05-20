@@ -133,11 +133,7 @@ The following evaluation metrics and visualizations were used:
 ├── heart_disease_xai_analysis.ipynb
 ├── datasets/
 │   ├── loan_prediction_dataset.csv
-│   └── heart.csv
-├── images/
-│   ├── shap_summary_plot.png
-│   ├── roc_curve.png
-│   └── feature_importance.png
+│   └── heart_disease_uci.csv
 └── README.md
 ```
 
