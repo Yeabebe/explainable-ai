@@ -112,7 +112,8 @@ Implemented SHAP visualizations include:
 
 
 * SHAP Summary Plot(heart_disease_uci)
-<img width="866" height="680" alt="image" src="https://github.com/user-attachments/assets/671a0762-e22f-4891-af4e-3f85c216b2e1" />
+<img width="867" height="680" alt="image" src="https://github.com/user-attachments/assets/c5e1806c-7678-4dda-8d12-32397b345d85" />
+
  
 
 
@@ -124,7 +125,8 @@ Implemented SHAP visualizations include:
 
 
 * SHAP Bar Plot(heart_disease_uci)
-<img width="790" height="740" alt="image" src="https://github.com/user-attachments/assets/83a46871-0512-492f-8961-1a5555c55fb3" />
+<img width="790" height="700" alt="image" src="https://github.com/user-attachments/assets/518cf438-e62f-45b7-bdde-326be2b6cca7" />
+
 
 
 
@@ -136,7 +138,8 @@ Implemented SHAP visualizations include:
 
 
 * SHAP Dependence Plot(heart_disease_uci)
-<img width="694" height="459" alt="image" src="https://github.com/user-attachments/assets/363d23ab-e649-4fb5-ab3d-229914867e17" />
+<img width="694" height="459" alt="image" src="https://github.com/user-attachments/assets/5247e0a4-1653-418f-aa5b-21b50c7a357d" />
+
 
 
 
